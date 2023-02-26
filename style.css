@@ -1,0 +1,29 @@
+    .navbar{
+        border-radius: 10px;
+        transition: 0.5s;
+    }
+    .navbar:hover{
+        transform: scale(1.01);
+        transition: 0.5s;
+    }
+    h5:hover{
+        letter-spacing: 1px;
+        transition: 0.5s;
+    }
+    h5{
+        transition: 0.5s;
+    }
+    img{
+        padding: 5px;
+    }
+    #connecter{
+        position: absolute;
+        right: 20px;  
+        transition: 0.5s;  
+    }
+    #connecter:hover{
+        letter-spacing: 1px;
+        padding-left:20px;
+        padding-right:20px;
+        transition: 0.5s;
+    }
